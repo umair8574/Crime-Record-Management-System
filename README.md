@@ -1,8 +1,5 @@
 # Crime-Information-Management-System
 
-This project is developed by Falgun Manoj Bokde
-
-
 ## About
 Crime Information Management System is a console based application which interacts with database and stores & retrieve information related to crime and criminal. 
 This application provides functionalities like register crime, register criminal, show status of crime case and get report on number of solved and unsolved cases.

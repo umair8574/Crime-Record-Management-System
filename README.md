@@ -1,4 +1,4 @@
-# Crime-Information-Management-System
+# Crime-Record-Management-System
 
 ## About
 Crime Information Management System is a console based application which interacts with database and stores & retrieve information related to crime and criminal. 

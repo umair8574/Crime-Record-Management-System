@@ -17,10 +17,10 @@ public class DButil {
 			e.printStackTrace();
 		}
 		
-		String url = "jdbc:mysql://localhost:3306/db1";
+		String url = "jdbc:mysql://localhost:3306/crm";
 		
 		try {
-			con = DriverManager.getConnection(url, "root", "exclusive300");
+			con = DriverManager.getConnection(url, "root", "exclusive");
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
